@@ -1,2 +1,15 @@
-# Game-of-Life
-Coinway's Game of Life Code
+# Conway's Game of Life
+
+This code implements the Game of Life using matplotlib and numpy
+
+# Features
+- Vectorized neighbor calculation
+- Non-wrapping boundaries
+- Animation support
+- Pattern loading from text files
+
+# Installation
+pip install -r requiements.txt
+
+# Run
+python main.py
