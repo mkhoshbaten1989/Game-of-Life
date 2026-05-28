@@ -13,3 +13,17 @@ pip install -r requiements.txt
 
 # Run
 python main.py
+
+# Documentation
+game-of-life/
+│
+├── README.md
+├── requirements.txt
+├── main.py
+├── gol.py
+├── patterns/
+│   └── glider.txt
+├── screenshots/
+│   └── frame_0.png
+├── .gitignore
+└── LICENSE
